@@ -2,6 +2,10 @@
 
 Script en Python que extrae texto de imágenes mediante OCR y lo guarda en un documento de Word.
 
+## Vista previa
+
+![Vista previa del resultado](vista_previa.png)
+
 ## Características
 
 - Procesa todas las imágenes de una carpeta.
